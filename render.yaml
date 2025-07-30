@@ -6,7 +6,7 @@ services:
   rootDir: backend
 
   name: agent-backend
-  runtime: image
+  runtime: docker
 
   # Free plan is not available for private services
   plan: starter
