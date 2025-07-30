@@ -19,5 +19,4 @@ services:
   # 300s is the standard allowed maximum.
   maxShutdownDelaySeconds: 300
 
-  # Sane defaults
 version: "1"
