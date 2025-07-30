@@ -1,0 +1,14 @@
+livekit-agents[deepgram,openai,cartesia,silero,turn-detector,tavus]~=1.0
+livekit-plugins-noise-cancellation~=0.2
+livekit-plugins-azure
+python-dotenv
+openai
+torch
+# Required for model downloads from Hugging Face Hub
+huggingface_hub
+tensorflow>=2.0
+# flax
+# azure
+# openai
+
+# If you use any other plugin directly, add it here

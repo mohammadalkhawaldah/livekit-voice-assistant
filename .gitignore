@@ -1,0 +1,41 @@
+# Node modules (frontend)
+node_modules/
+
+# Python virtual environments (backend)
+backend/venv/
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+backend/.env
+.env
+
+# Frontend environment files
+frontend/agent-starter-react/.env
+frontend/agent-starter-react/.env.local
+frontend/agent-starter-react/.env.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Build output
+frontend/agent-starter-react/.next/
+frontend/agent-starter-react/out/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Misc
+*.bak
+*.tmp
+
+# pnpm lock file (optional, if you want to ignore it)
+# frontend/agent-starter-react/pnpm-lock.yaml
