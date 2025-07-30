@@ -1,6 +1,6 @@
 services:
 - type: pserv
-  repo: https://github.com/your-username/your-repo
+  repo: https://github.com/mohammadalkhawaldah/livekit-voice-assistant
 
   # Path containing your Dockerfile
   rootDir: backend
